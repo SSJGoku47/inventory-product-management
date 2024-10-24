@@ -30,7 +30,7 @@
                                 <label for="confirm_password" class="me-3 mb-0" style="width: 150px; text-align: left;">Confirm Password:</label>
                                 <input type="password" name="confirm_password" id="confirm_password" required class="form-control" placeholder="Confirm password">
                             </div>
-                            <button class="btn btn-primary btn-lg btn-block mb-3 mt-5" type="submit">Login</button>
+                            <button class="btn btn-primary btn-lg btn-block mb-3 mt-5" type="submit">Reset</button>
                         </form>
                     </div>
                 </div>
